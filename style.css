@@ -1,0 +1,34 @@
+#div1{ 
+    background-color: skyblue;
+    width: 100%; 
+    height: 165PX; 
+    border-bottom-color: aqua;
+    margin: auto; 
+    text-align: center;
+    font-size: 60px;
+}
+
+#div2{ 
+    background-color: whitesmoke;
+    width: 100%; 
+    height: 400px; 
+    margin:auto;
+}
+
+#div3{
+    background-color: aqua;
+    width: 200px;
+    height: 500px;
+    margin-top: 50%;
+}
+#div4{
+    background-color: navy;
+    width: 400px;
+    height: 150px;
+}
+#div5{
+    background-color: greenyellow;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+}
